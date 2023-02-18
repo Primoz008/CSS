@@ -1,2 +1,2 @@
 # CSS
-Tukaj se bomo učili op raogramske jeziku css.
+Tukaj se bomo učili o programskem jeziku css.
